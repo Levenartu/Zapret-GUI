@@ -1,0 +1,24 @@
+{"sessionId": "887490", "location": "gui.py:main", "message": "main() started", "data": {}, "timestamp": 1781083053936, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:__init__", "message": "UI layout built", "data": {"zapret_root": "C:\\Users\\Никита Воропаев\\Desktop\\Моя папка\\UnBlockEthernet\\Zapret(+GUI)"}, "timestamp": 1781083053946, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:_build_service_tab", "message": "service tab controls built", "data": {}, "timestamp": 1781083053959, "hypothesisId": "B"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "ZapretGUI initialized", "data": {}, "timestamp": 1781083053971, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "main() started", "data": {}, "timestamp": 1781084052979, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:__init__", "message": "UI layout built", "data": {"zapret_root": "C:\\Users\\Никита Воропаев\\Desktop\\Моя папка\\UnBlockEthernet\\Zapret(+GUI)"}, "timestamp": 1781084052984, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:_build_service_tab", "message": "service tab controls built", "data": {}, "timestamp": 1781084052991, "hypothesisId": "B"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "ZapretGUI initialized", "data": {}, "timestamp": 1781084052999, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "main() started", "data": {}, "timestamp": 1781103157991, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:__init__", "message": "UI layout built", "data": {"zapret_root": "C:\\Users\\Никита Воропаев\\Desktop\\Моя папка\\UnBlockEthernet\\Zapret(+GUI)"}, "timestamp": 1781103157999, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:_build_service_tab", "message": "service tab controls built", "data": {}, "timestamp": 1781103158011, "hypothesisId": "B"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "ZapretGUI initialized", "data": {}, "timestamp": 1781103158019, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "main() started", "data": {}, "timestamp": 1781107597207, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:__init__", "message": "UI layout built", "data": {"zapret_root": "C:\\Users\\Никита Воропаев\\Desktop\\Моя папка\\UnBlockEthernet\\Zapret(+GUI)"}, "timestamp": 1781107597271, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:_build_service_tab", "message": "service tab controls built", "data": {}, "timestamp": 1781107597278, "hypothesisId": "B"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "ZapretGUI initialized", "data": {}, "timestamp": 1781107597286, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "main() started", "data": {}, "timestamp": 1781107777055, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:__init__", "message": "UI layout built", "data": {"zapret_root": "C:\\Users\\Никита Воропаев\\Desktop\\Моя папка\\UnBlockEthernet\\Zapret(+GUI)"}, "timestamp": 1781107777074, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:_build_service_tab", "message": "service tab controls built", "data": {}, "timestamp": 1781107777082, "hypothesisId": "B"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "ZapretGUI initialized", "data": {}, "timestamp": 1781107777089, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "main() started", "data": {}, "timestamp": 1781108052893, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:__init__", "message": "UI layout built", "data": {"zapret_root": "C:\\Users\\Никита Воропаев\\Desktop\\Моя папка\\UnBlockEthernet\\Разработка интерфейса запрета\\GUIZapret v 0.9b"}, "timestamp": 1781108052914, "hypothesisId": "A"}
+{"sessionId": "887490", "location": "gui.py:_build_service_tab", "message": "service tab controls built", "data": {}, "timestamp": 1781108052924, "hypothesisId": "B"}
+{"sessionId": "887490", "location": "gui.py:main", "message": "ZapretGUI initialized", "data": {}, "timestamp": 1781108053157, "hypothesisId": "A"}
