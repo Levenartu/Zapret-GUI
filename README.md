@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/e5f06fe0-9526-4d7c-9eeb-4c1c8a5daee4" /># Zapret-GUI
+# Zapret-GUI
 Версия Zapret, но с улучшением в виде полноценного интерфейса и возможностью не держать открытой консоль (Приложение сворачивается в трей). #ZapretGUI
 
 Зачем вам нужен графический интерфейс?
@@ -10,5 +10,5 @@
 
 Спасибо большое Flowseal и bol-van это их программа!
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/db545925-42cf-4458-b192-dd51d61593ef" /> Вы можете поддержать меня подписавшись на мой канал на YouTube)!
+Вы можете поддержать меня подписавшись на мой канал на YouTube)!
 
